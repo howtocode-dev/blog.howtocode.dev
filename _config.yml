@@ -1,11 +1,9 @@
-title: Your awesome title
+title: সবার জন্য প্রোগ্রামিং
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: HowToCode.dev
+  email: ask@howtocode.dev
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  বাংলাতেই শুরু হোক প্রোগ্রামিং শেখার যাত্রা
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -15,11 +13,11 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    github:  howtocode-dev
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: howtocode.dev
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
