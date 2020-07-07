@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: আমাদের সম্পর্কে
 permalink: /about/
 ---
 
