@@ -4,7 +4,7 @@ author:
   email: ask@howtocode.dev
 description: > # this means to ignore newlines until "show_excerpts:"
   বাংলাতেই শুরু হোক প্রোগ্রামিং শেখার যাত্রা
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
