@@ -14,14 +14,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: jekyllrb
+    twitter: howtocodedev
     github:  howtocode-dev
     # devto: jekyll
     # dribbble: jekyll
     facebook: howtocode.dev
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: howtocode-dev
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -47,8 +47,9 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+- about.md
+- www.howtocode.dev
 
 # Build settings
 remote_theme: jekyll/minima
