@@ -3,7 +3,7 @@ author:
   name: HowToCode.dev
   email: ask@howtocode.dev
 description: > # this means to ignore newlines until "show_excerpts:"
-  বাংলাতেই শুরু হোক প্রোগ্রামিং শেখার যাত্রা
+  আমাদের বাংলা কোর্স গুলো বাদেও প্রোগ্রামিং এবং সফটওয়্যার ডেভেলপমেন্ট নিয়ে বাংলায় লেখা বিভিন্ন পোস্ট গুলোর একটি গোছানো সংগ্রহ থাকছে এই ব্লগে। বাংলাতেই শুরু হোক প্রোগ্রামিং শেখার যাত্রা। 
 show_excerpts: true
 excerpt_separator: <!--more-->
 
@@ -49,7 +49,6 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - about.md
-- www.howtocode.dev
 
 # Build settings
 remote_theme: jekyll/minima
